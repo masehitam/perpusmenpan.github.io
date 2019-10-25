@@ -1,0 +1,15 @@
+/* create order list on bootstrap */
+.list-group {
+    list-style: decimal inside;
+}
+
+.angka {
+    display: list-item;
+}
+
+/* PDF */
+.pdfobject-container { 
+    height: 35rem; 
+    width: 100%;
+    border: 1rem solid rgba(0,0,0,.1); 
+}
